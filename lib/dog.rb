@@ -1,6 +1,6 @@
 # Your code goes here!
 class Dog
-def name = (gog)
+def name = ()
 end
 
 class Dog
