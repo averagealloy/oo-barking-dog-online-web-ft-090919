@@ -6,8 +6,8 @@ def name= (dog_name)
   def name
     @this_dogs_name
   end
-  def bark(dog_name)
-    @this_dogs_name
+  def bark
+    @this_dogs_na
 
   end
 end
