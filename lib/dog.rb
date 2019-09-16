@@ -1,2 +1,2 @@
 # Your code goes here!
-Class 
+Class
