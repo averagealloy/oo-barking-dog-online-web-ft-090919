@@ -1,5 +1,5 @@
 # Your code goes here!
-Class
+class
 
 
 
